@@ -7,6 +7,7 @@ class Admin extends CI_Controller{
         $this->load->model('Admin_model');
     } 
 
+    //new comment added
     /*
      * Listing of admin
      */
